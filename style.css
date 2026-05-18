@@ -1,0 +1,16 @@
+*{
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+p{
+    text-align: center;
+    font-size: 40px;
+    background: transparent;
+}
+
+body{
+    background-image: url(iloveu.jpeg);
+    background-repeat: repeat;
+    background-size: 400px;
+}
